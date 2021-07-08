@@ -11,3 +11,7 @@
 </div>
 
   A collection of resources on human pose related problem: mainly focus on 2D/3D human pose estimation, and will include action recognition, Transformer, mesh representation, flow calculation, (inverse) kinematics, affordance, robotics or sequence learning.
+  
+  
+  # Why awesome human pose estimation?
+This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. And This is a fork from https://github.com/wangzheallen/awesome-human-pose-estimation (thanks for wangzheallen) and customized for personal study and sharing. I will be continuously updating this list with the latest papers and resources.
