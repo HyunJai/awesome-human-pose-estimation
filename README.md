@@ -1,4 +1,4 @@
-# Awesome Human PoseEstimation
+# Awesome Human Pose Estimation
 
 
 
