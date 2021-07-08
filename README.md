@@ -4,7 +4,8 @@
 
 <div align="center">
 
-  ![gif](https://user-images.githubusercontent.com/38063309/124940124-aa084a00-e044-11eb-9f9d-3d8b5be95996.png)
+  ![parkour](https://user-images.githubusercontent.com/38063309/124941540-d40e3c00-e045-11eb-99b8-c06b706e6218.gif)
+
   ![image](https://user-images.githubusercontent.com/38063309/124938890-a1634400-e043-11eb-8196-e588d25f0284.png)
   
 </div>
