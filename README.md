@@ -17,6 +17,6 @@
 This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. And This is a fork from https://github.com/wangzheallen/awesome-human-pose-estimation (thanks for wangzheallen) and customized for personal study and sharing. I will be continuously updating this list with the latest papers and resources.
 
 # Contributing
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to pull a request
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](./pulls)
 
 Feedback and contributions are welcome!
