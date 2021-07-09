@@ -20,3 +20,8 @@ This is a collection of papers and resources I curated when learning the ropes i
 If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](./pulls)
 
 Feedback and contributions are welcome!
+
+# Table of Contents
+- [Basics](./README.md/Basics)
+
+# Basics
