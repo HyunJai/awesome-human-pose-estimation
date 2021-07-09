@@ -22,6 +22,6 @@ If you think I have missed out on something (or) have any suggestions (papers, i
 Feedback and contributions are welcome!
 
 # Table of Contents
-- [Basics](./README.md/Basics)
+- [Basics](#Basicsheading)
 
 # Basics
