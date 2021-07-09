@@ -28,4 +28,4 @@ Feedback and contributions are welcome!
 - [Benchmarks](#Benchmarksheading)
 
 # Basics
-- pose_related_human_knowledge
+- [pose_related_human_knowledge](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
