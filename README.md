@@ -22,11 +22,11 @@ Feedback and contributions are welcome!
 ## Table of Contents
 - [Basics](#Basics)
 - [Papers](#Papers)
-  - [2D Pose Estimation](#2D-Pose-Estimationheading)
-  - [3D Pose Estimation](#3D-Pose-Estimationheading)
-  - [Action Recognition](#Action-Recognitionheading)
-- [Datasets](#Datasetsheading)
-- [Benchmarks](#Benchmarksheading)
+  - [2D Pose Estimation](#2D-Pose-Estimation)
+  - [3D Pose Estimation](#3D-Pose-Estimation)
+  - [Action Recognition](#Action-Recognition)
+- [Datasets](#Datasets)
+- [Benchmarks](#Benchmarks)
 
 ## Basics
 - [pose_related_human_knowledge](https://nanonets.com/blog/human-pose-estimation-2d-guide/)
