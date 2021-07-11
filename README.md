@@ -25,6 +25,7 @@ Feedback and contributions are welcome!
   - [2D Pose Estimation](#2D-Pose-Estimation)
   - [3D Pose Estimation](#3D-Pose-Estimation)
   - [Action Recognition](#Action-Recognition)
+  - [Geometry](#Geometry)
 - [Datasets](#Datasets)
 - [Benchmarks](#Benchmarks)
 
@@ -63,3 +64,6 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [RSA: Randomized Simulation as Augmentation for Robust Human Action Recognition](https://arxiv.org/abs/1912.01180) - Yi Zhang, Xinyue Wei, Weichao Qiu, Zihao Xiao, Gregory D. Hager, Alan Yuille. (Arxiv 2019)
 - [Simultaneous Implementation Features Extraction and Recognition Using C3DNetwork for WiFi-based Human Activity Recognition](https://arxiv.org/pdf/1911.09325.pdf) - Yafeng  Liu et al. (Arxiv 2019)
 - [Action Recognition via Pose-Based Graph Convolutional Networks with Intermediate Dense Supervision](https://arxiv.org/abs/1911.12509) - Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu (Arxiv 2019)
+
+### Geometry
+- [SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/16298) - Li, Z., Hu, Y., Salzmann, M., & Ji, X. (AAAI 2021)
