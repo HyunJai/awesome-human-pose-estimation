@@ -69,7 +69,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Semi-Supervised Action Recognition with Temporal Contrastive Learning](https://arxiv.org/abs/2102.02751) - Ankit Singh, Omprakash Chakraborty, Ashutosh Varshney, Rameswar Panda, Rogerio Feris, Kate Saenko, Abir Das(CVPR 2021)
 
 
-### Action Recognition
+### Skeleton based Action Recognition
 - [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586) - Haodong Duan, Yue Zhao, Kai Chen, Dian Shao, Dahua Lin, Bo Dai(CVPR 2021)
 
 ### Geometry
