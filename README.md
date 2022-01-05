@@ -66,6 +66,7 @@ and Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bin_Xiao_Sim
 - [Simultaneous Implementation Features Extraction and Recognition Using C3DNetwork for WiFi-based Human Activity Recognition](https://arxiv.org/pdf/1911.09325.pdf) - Yafeng  Liu et al. (Arxiv 2019)
 - [Action Recognition via Pose-Based Graph Convolutional Networks with Intermediate Dense Supervision](https://arxiv.org/abs/1911.12509) - Lei Shi, Yifan Zhang, Jian Cheng, Hanqing Lu (Arxiv 2019)
 - [Semi-Supervised Action Recognition with Temporal Contrastive Learning](https://arxiv.org/abs/2102.02751) - Ankit Singh, Omprakash Chakraborty, Ashutosh Varshney, Rameswar Panda, Rogerio Feris, Kate Saenko, Abir Das(CVPR 2021)
+- [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586) - Haodong Duan, Yue Zhao, Kai Chen, Dian Shao, Dahua Lin, Bo Dai(CVPR 2021)
 
 ### Geometry
 - [SD-Pose: Semantic Decomposition for Cross-Domain 6D Object Pose Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/16298) - Li, Z., Hu, Y., Salzmann, M., & Ji, X. (AAAI 2021)
